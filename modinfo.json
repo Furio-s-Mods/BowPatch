@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "side": "client",
+  "modid": "bowpatch",
+  "name": "Bow Patch",
+  "authors": ["Furio"],
+  "description": "Hides offhand item, and any GUI while aiming. Compatible with Combat Overhaul Fork",
+  "version": "2.0.0",
+    "dependencies": {
+    "game": "1.22.0"
+  }
+}
